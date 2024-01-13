@@ -14,6 +14,6 @@ python deepgar.py
 ```
 
 ## Citation
-If you use this work, please cite the following dissertation.
+If you use this work, please cite the following paper:
 
 Ling, Chen, Tanmoy Chowdhury, Junji Jiang, Junxiang Wang, Xuchao Zhang, Haifeng Chen, and Liang Zhao. "Deepgar: Deep graph learning for analogical reasoning." In 2022 IEEE International Conference on Data Mining (ICDM), pp. 1065-1070. IEEE, 2022.
